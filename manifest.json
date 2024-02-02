@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "description": "hii i am ricky and i build this not in my own",
+    "version":"3.2",
+    "name":"save links",
+    "action":{
+        "default_popup":"index.html"
+    } ,
+    "permissions":[
+        "tabs"
+    ]
+}
